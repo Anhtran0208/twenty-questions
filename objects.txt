@@ -1,0 +1,34 @@
+Is this a living thing?
+	Is it an animal?
+		Can it fly?
+			bird
+			Can it swim?
+				duck
+				Does it have four legs?
+					dog
+					Does it have two legs? 
+						chicken
+						snake
+		Is it a person?
+			Is it male?
+				husband
+				wife	
+			Is it a plant?
+				flower
+				bacteria
+	Is it an object?
+		Can it be found in the library?
+			bookshelf
+			Is it transportation?
+				Can it fly?
+					plane
+					Does it have wheels? 
+						Does it have 4 wheels?
+							car
+							bike
+						ship
+				snow
+		It is a country?
+			Vietnam
+			park
+
